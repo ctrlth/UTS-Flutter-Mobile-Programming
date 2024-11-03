@@ -1,12 +1,17 @@
 # percobaan
 
-A new Flutter project.
+A UTS project.
 
 # Hasil Codingan
 
 Berikut adalah screenshot dari hasil codingan saya:
 
-!Screenshot
+![login](https://github.com/user-attachments/assets/23f7f191-f627-4b33-a614-a77ea3c9e770)
+![home](https://github.com/user-attachments/assets/e216923d-5857-4d46-a843-7271b604d8f5)
+![profile](https://github.com/user-attachments/assets/71e06046-3f7c-43d6-9965-5510ebdf0efd)
+
+
+
 
 ## Getting Started
 
