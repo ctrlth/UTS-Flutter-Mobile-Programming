@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+# Hasil Codingan
+
+Berikut adalah screenshot dari hasil codingan saya:
+
+!Screenshot
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
